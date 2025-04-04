@@ -2,11 +2,6 @@
 
 ### Kim jestem i co robie jest nie ważne, ucze się pythona i jestem memiarzem. Staram się żyć, i guess godnym życiem. <br />
 
-### Linki do profili: <br />
-### Instagram: https://www.instagram.com/mr_zakuu <br />
-### X: https://x.com/MrZakuu <br />
-
-
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/MrZakuu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MrZakuu) 
